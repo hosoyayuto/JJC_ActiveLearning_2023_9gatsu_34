@@ -3,17 +3,17 @@
 2,Taurus CT9 G2,Textures/Chara/Taurus_CT9_G2_Render
 3,SIG MPX Copperhead,Textures/Chara/SIG_MPX_Copperhead_Render
 4,Beretta PMX,Textures/Chara/Beretta_PMX_Render
-5,Vigilance Rifles A-M20,Textures/Chara/Human_Female_05
-6,SAR 109T Specs	,Textures/Chara/Human_Female_06
-7,AWP,Textures/Chara/Human_Female_07
-8,Barrett M82A1	,Textures/Chara/Human_Female_08
-9,Kel-Tec RDB-C	,Textures/Chara/Human_Female_09
-10,OTs-48K MK2	,Textures/Chara/Human_Female_10
-11,Benelli M2 SP,Textures/Chara/Human_Female_11
-12,Cobray Striker Special,Textures/Chara/Human_Female_12
-13,Hunt Group MH12,Textures/Chara/Human_Female_13
-14,Kalashnikov USAKHAOS,Textures/Chara/Human_Female_14
-15,Sentry 12,Textures/Chara/Human_Female_15
+5,Vigilance Rifles A-M20,Textures/Chara/Vigilance_Rifles_A-M20_Render
+6,SAR 109T Specs	,Textures/Chara/SAR_109T_Specs_Render
+7,AWP,Textures/Chara/AWP_Render
+8,Barrett M82A1	,Textures/Chara/Barrett_M82A1_Render
+9,Kel-Tec RDB-C	,Textures/Chara/Kel-Tec_RDB-C_Render
+10,OTs-48K MK2	,Textures/Chara/OTs-48K_MK2_Render	
+11,Benelli M2 SP,Textures/Chara/Benelli_M2_SP_Render
+12,Cobray Striker Special,Textures/Chara/Cobray_Striker_Special_Render
+13,Hunt Group MH12,Textures/Chara/Hunt_Group_MH12_Render
+14,Kalashnikov USAKHAOS,Textures/Chara/Kalashnikov_USA_KHAOS_Render
+15,Sentry 12,Textures/Chara/Sentry_12_Render
 16,V3 TAC-13,Textures/Chara/Human_Male_00
 17,VEPR-VPO X3,Textures/Chara/Human_Male_01
 18,Typhoon F12,Textures/Chara/Human_Male_02
