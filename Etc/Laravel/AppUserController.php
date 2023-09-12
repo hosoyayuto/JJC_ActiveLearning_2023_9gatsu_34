@@ -70,6 +70,9 @@ class AppUserController extends Controller
         $app_user = AppUser::find($id);
         return view('app_user', ['app_user' => $app_user]);
     }
+    /**
+     * Remove the specified resource from storage.
+     */
     public function play_chara_gacha($id)
     {
         $app_user = AppUser::find($id);
