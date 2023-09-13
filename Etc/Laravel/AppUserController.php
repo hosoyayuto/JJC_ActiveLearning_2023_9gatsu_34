@@ -88,5 +88,6 @@ class AppUserController extends Controller
 
         return view('play_chara_gacha', ['result_string' => $result_string]);
     }
-
+   
+    
 }
